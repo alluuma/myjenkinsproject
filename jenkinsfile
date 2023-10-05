@@ -12,8 +12,8 @@ pipeline {
 				stage('Deploy') 
 				{
 					steps{
-						echo "Deploy the Project.........."
-gfhgffgv
+						echo "Deploy the Project..........
+                                       
                                               
 					          }
 				}
